@@ -13,11 +13,11 @@ let position;
 const duck = document.createElement('img');
 $(duck).addClass('position-absolute');
 $(duck).attr('id', 'duck');
-$(duck).attr('src', '../img/duck_outline_target_yellow.png');
+$(duck).attr('src', 'img/duck_outline_target_yellow.png');
 
 // Bullets
 const bullet = $('<img>').attr({
-    'src': '../img/bullet.png'
+    'src': 'img/bullet.png'
 });
 $(bullet).addClass('bullet');
 
