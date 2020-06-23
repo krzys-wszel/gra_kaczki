@@ -252,13 +252,13 @@ $(credits1).addClass('p-credits');
 $(credits1).text('Author: ');
 const credits11 = document.createElement('span');
 $(credits11).addClass('p-credits');
-$(credits11).text('Bartlomiej Ambroziak');
+$(credits11).text('Krzysztof Wszelaki');
 const credits2 = document.createElement('p');
 $(credits2).addClass('p-credits');
 $(credits2).text('Images from: ');
 const credits22 = document.createElement('span');
 $(credits22).addClass('p-credits');
-$(credits22).html('<a target="_blank" href="https://www.kenney.nl">https://www.kenney.nl</a>');
+$(credits22).html('<a target="_blank" href="https://www.krzysztofwszelaki.pl">https://www.krzysztofwszelaki.pl</a>');
 
 
 
